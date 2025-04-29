@@ -4,5 +4,11 @@ null,
 {"id":2,"expanded":true,"name":"code_world_pathway_1","order":2,"parentId":0,"scrollX":720.8888888888889,"scrollY":406.6666666666667,"quick":false},
 {"id":3,"expanded":false,"name":"code_world_entrance","order":5,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":4,"expanded":true,"name":"code_world_pathway_2","order":3,"parentId":0,"scrollX":720.8888888888889,"scrollY":406.6666666666667,"quick":false},
-{"id":5,"expanded":false,"name":"code_world_pathway_3","order":4,"parentId":0,"scrollX":720.8888888888889,"scrollY":406.6666666666667,"quick":false}
+{"id":5,"expanded":false,"name":"code_world_pathway_3","order":4,"parentId":0,"scrollX":720.8888888888889,"scrollY":406.6666666666667,"quick":false},
+{"id":6,"expanded":true,"name":"puzzle_loop_1","order":8,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":7,"expanded":true,"name":"puzzle_loop_2","order":7,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":8,"expanded":false,"name":"puzzle_loop_fix","order":6,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":9,"expanded":true,"name":"puzzle_loo_house","order":9,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":10,"expanded":true,"name":"puzzle_cal_entrance","order":10,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":11,"expanded":false,"name":"puzzle_cal_core","order":11,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
 ]
