@@ -1,0 +1,29 @@
+[33mcommit f712e6692b201b6f42caa0345a990cf67263440e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kitisak Chalongjan <Dewlonger15@gmail.com>
+Date:   Sun May 4 21:07:54 2025 +0700
+
+    update puzzle2
+
+[33mcommit bb5cc73876b357a7dfdf77a1e04535390522ab6a[m
+Author: BLACXLIST <nanthichask001@gmail.com>
+Date:   Wed Apr 30 23:04:44 2025 +0700
+
+    himagamev2
+
+[33mcommit eb1daef04e61dc10a29f1187caf23b062643acb7[m
+Author: Kitisak Chalongjan <Dewlonger15@gmail.com>
+Date:   Tue Apr 29 23:25:03 2025 +0700
+
+    -fix some story of puzzle1 -add puzzle2 entance
+
+[33mcommit e0fc9a84f281b1e24294cdb8761b0bdfdc301a83[m
+Author: Kitisak Chalongjan <Dewlonger15@gmail.com>
+Date:   Sat Apr 19 20:13:01 2025 +0700
+
+    initialize himagame
+
+[33mcommit ce915fee86398eac4524dc6ad80aa454deffcab0[m
+Author: Dew Kitisak <Dewlonger15@gmail.com>
+Date:   Sat Apr 19 20:10:03 2025 +0700
+
+    Initial commit

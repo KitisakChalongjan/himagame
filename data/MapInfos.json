@@ -10,5 +10,8 @@ null,
 {"id":8,"expanded":false,"name":"puzzle_loop_fix","order":6,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":9,"expanded":true,"name":"puzzle_loo_house","order":9,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
 {"id":10,"expanded":true,"name":"puzzle_cal_entrance","order":10,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":11,"expanded":false,"name":"puzzle_cal_core","order":11,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
+{"id":11,"expanded":true,"name":"puzzle_cal_core_error","order":11,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":12,"expanded":false,"name":"puzzle_cal_core_run","order":12,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":13,"expanded":true,"name":"puzzle_binary_entrance","order":13,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":14,"expanded":false,"name":"puzzle_binary_test","order":14,"parentId":0,"scrollX":0,"scrollY":0,"quick":false}
 ]
